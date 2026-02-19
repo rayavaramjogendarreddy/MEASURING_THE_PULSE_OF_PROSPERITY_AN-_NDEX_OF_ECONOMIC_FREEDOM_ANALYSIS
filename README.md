@@ -1,2 +1,4 @@
-# MEASURING_THE_PULSE_OF_PROSPERITY_AN _NDEX_OF_ECONOMIC_FREEDOM_ANALYSIS
-SmartBridge Internship Project
+# MEASURING THE PULSE OF PROSPERITY AN  INDEX OF ECONOMIC FREEDOM ANALYSIS
+Dashboard Public Link - https://public.tableau.com/app/profile/jogendar.reddy.rayavaram/viz/Intenship/Dashboard1?publish=yes
+
+Story Public Link - https://public.tableau.com/app/profile/jogendar.reddy.rayavaram/viz/Intenship/Story1?publish=yes
